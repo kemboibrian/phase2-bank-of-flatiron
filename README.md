@@ -22,7 +22,7 @@ npm
 Git clone git@github.com:kemboibrian/phase2-bank-of-flatiron.git
 
 # Live Link
-[Git](http://localhost:5175/Bank-of-Flatiron/)
+[Git](https://kemboibrian.github.io/phase2-bank-of-flatiron/)
 
 
 ## Technologies used
