@@ -18,7 +18,7 @@ Git
 
 ### Installation instruction
 
-Git clone git@github.com:kemboibrian/Bank-of-Flatiron.git
+Git clone git@github.com:kemboibrian/phase2-bank-of-flatiron.git
 
 # Live Link
 [Git](http://localhost:5175/Bank-of-Flatiron/)

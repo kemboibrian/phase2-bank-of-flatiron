@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
-import TransactionTable from './components/TransacionTable'
-import TransactionForm from './components/TransactionForm';
-import SearchBar from './components/SearchBar';
-import './App.css';
+import TransactionTable from './components/TransactionTable'
+import TransactionForm from './components/TransactionForm'
+import SearchBar from './components/SearchBar'
+import './App.css'
 
 const App = () => {
   // State for storing transactions
