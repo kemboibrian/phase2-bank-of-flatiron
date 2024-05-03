@@ -1,15 +1,15 @@
 import React from "react";
 
 const TransactionForm = ({
-  newTransaction, // State for storing new transaction data
-  handleInputChange, // Function to handle input change in transaction form
-  handleAddTransaction, // Function to add new transaction
+  newTransaction,
+  handleInputChange,
+  handleAddTransaction,
 }) => {
   return (
-    <div>
+    <div className="transaction-form-container">
       {/* Date input field */}
       <div className="form-group">
-        <label htmlFor="date">Date</label>
+        <label htmlFor="date"></label>
         <input
           type="date"
           id="date"
