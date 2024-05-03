@@ -8,7 +8,7 @@ const App = () => {
   // State for storing transactions
   const [transactions, setTransactions] = useState([
     { id: 1, date: '2023-04-01', description: 'Groceries', category: 'Expenses', amount: 1200 },
-    { id: 2, date: '2023-04-05', description: 'Salary', category: 'Income', amount: 45000},
+    { id: 2, date: '2023-04-05', description: 'Salary', category: 'Income', amount: 55000},
     { id: 3, date: '2023-04-10', description: 'Rent', category: 'Expenses', amount: 15000 },
     { id: 4, date: '2023-04-15', description: 'Dining Out', category: 'Expenses', amount: 4500},
     { id: 5, date: '2023-04-20', description: 'Savings', category: 'Income', amount: 5000 },
