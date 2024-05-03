@@ -23,7 +23,7 @@ const App = () => {
   });
 
   // State for storing search term
-  const [searchTerm, setSearchTerm] = useState('');
+  const [searchTerm, setSearchTerm] = useState('')
 
   // Function to handle input change in transaction form
   const handleInputChange = (e) => {
@@ -40,7 +40,7 @@ const App = () => {
       id: newTransactionId,
       ...newTransaction,
     };
-    setTransactions([...transactions, newTransactionData]);
+    setTransactions([...transactions, newTransactionData])
     // Reset form fields after adding transaction
     setNewTransaction({
       date: '',
