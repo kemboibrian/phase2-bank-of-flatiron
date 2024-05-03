@@ -19,7 +19,7 @@ const App = () => {
       date: "2023-04-05",
       description: "Salary",
       category: "Income",
-      amount: 55000,
+      amount: 45000,
     },
     {
       id: 3,
@@ -33,7 +33,7 @@ const App = () => {
       date: "2023-04-15",
       description: "Dining Out",
       category: "Expenses",
-      amount: 4500,
+      amount: 3000,
     },
     {
       id: 5,
